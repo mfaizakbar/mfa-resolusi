@@ -1,3 +1,4 @@
 MFA RESOLUSI
 - Menjadi data analis
 - Mengerti Machine Learning
+- Lebih baik dalam Python programming
